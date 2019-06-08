@@ -1,0 +1,3 @@
+rootProject.name = 'aizy_music_app_4395'
+
+include ':app'

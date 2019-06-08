@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT aizy_music_app_4395.wsgi:application
